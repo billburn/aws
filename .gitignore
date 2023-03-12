@@ -4,3 +4,7 @@
 # .tfstate files
 *.tfstate
 *.tfstate.*
+
+# .lock files
+*.lock.*
+*.lock.hcl
