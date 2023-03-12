@@ -1,7 +1,6 @@
-# aws
+# AWS Helpful Commands
 
-## Helpful Commands
-* Check Instance Metadata and User Data API
+## Check Instance Metadata and User Data API
 
 ```
 curl http://169.254.169.254/latest/meta-data/
