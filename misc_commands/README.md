@@ -5,6 +5,7 @@
 - https://aws.amazon.com/blogs/mt/simplifying-apache-server-logs-with-amazon-cloudwatch-logs-insights/
 
 ```
+# Bootstrap script
 sudo yum update -y
 sudo yum install httpd -y
 sudo systemctl start httpd 
